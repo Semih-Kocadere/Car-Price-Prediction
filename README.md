@@ -1,6 +1,6 @@
 The aim of this project is to predict the car prices according to their specs.
 
-                                            Linear Regression Results
+                                               Linear Regression Results
 <img width="478" alt="LinearRegressionAccuracy" src="https://github.com/user-attachments/assets/7d429670-c3da-4205-8a5e-173667ba6231" />
 
 <img width="475" alt="LinearRegressionHP" src="https://github.com/user-attachments/assets/08dafe75-66ac-422a-ba0e-b52b1d3724cb" />
@@ -11,7 +11,7 @@ The aim of this project is to predict the car prices according to their specs.
 
 <img width="479" alt="LinearRegressionYear" src="https://github.com/user-attachments/assets/8de4f590-c30a-4c3d-8d7e-6f2df91994a3" />
 
-                                          Ridge Regression Results
+                                             Ridge Regression Results
 
 <img width="476" alt="RidgeRegressionAccuracy" src="https://github.com/user-attachments/assets/ce90df94-854b-4320-89a8-64dd51b24645" />
 
